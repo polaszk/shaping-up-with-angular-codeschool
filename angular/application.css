@@ -1,0 +1,29 @@
+body {
+  margin: 0 20%;
+}
+
+.ng-invalid.ng-dirty {
+  border-color: red;
+}
+
+.ng-valid.ng-dirty {
+  border-color: green;
+}
+
+.small-image {
+  width: 85px;
+  height: 85px;
+}
+
+.products-gallery {
+  margin: 0 31%;
+}
+
+.img-thumbnails {
+  margin: 0;
+  padding: 0;
+}
+
+li.ng-scope {
+  list-style: none;
+}
